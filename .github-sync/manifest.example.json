@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "fastapi/full-stack-fastapi-template",
+      "name": "full-stack-fastapi-template",
+      "branch": "master",
+      "stars": 45674,
+      "license": "MIT",
+      "description": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+      "origin": "git@github-frankie-full-stack-fastapi-template:FrankieGhaf/full-stack-fastapi-template.git"
+    }
+  ]
+}
